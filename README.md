@@ -8,4 +8,4 @@ This is a *section*
 
 ## My Github Section
 
-THis section was added on Github!
+THis section was added on Github! Twice!
